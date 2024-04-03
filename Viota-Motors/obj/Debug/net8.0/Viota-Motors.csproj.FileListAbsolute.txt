@@ -21,11 +21,11 @@ C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\staticwebassets
 C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Viota-Motors.props
 C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Viota-Motors.props
 C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\scopedcss\bundle\Viota-Motors.styles.css
-C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\scopedcss\projectbundle\Viota-Motors.bundle.scp.css
 C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\Viota-Motors.dll
 C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\refint\Viota-Motors.dll
 C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\Viota-Motors.pdb
 C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\Viota-Motors.genruntimeconfig.cache
 C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\ref\Viota-Motors.dll
+C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\bin\Debug\net8.0\Data\dados\pokemons.json
+C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\bin\Debug\net8.0\Data\dados\tipos.json
