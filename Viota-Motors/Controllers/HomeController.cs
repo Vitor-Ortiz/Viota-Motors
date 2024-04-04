@@ -15,7 +15,13 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        List<Carro> carros = [];
+        using (StreamReader leitor = new("Data\\carros.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            carros = JsonSerializer.Deserialize<List<Carro>>(dados);
+        }
+        return View(carros);
     }
 
     public IActionResult Privacy()
