@@ -1,17 +1,17 @@
 ﻿[
   {
     "Numero": 1,
-    "Nome": "Bulbasaur",
+    "Nome": "audi",
     "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
     "Especie": "Seed",
     "Tipo": [ "Planta", "Venenoso" ] ,
     "Altura": 0.7,
     "Peso": 6.9,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Imagem": "\\img\\carros\\audi-r8.webp"
   },
   {
     "Numero": 2,
-    "Nome": "Ivysaur",
+    "Nome": "bmw-320i",
     "Descricao": "Há um broto nas costas desse Pokémon. Para suportar seu peso, as pernas e o tronco de Ivysaur ficam grossos e fortes. Se começar a passar mais tempo deitado sob a luz do sol, é um sinal de que o broto florescerá em uma flor grande em breve.",
     "Especie": "Seed",
     "Tipo": [ "Planta", "Venenoso" ],
@@ -21,7 +21,7 @@
   },
   {
     "Numero": 3,
-    "Nome": "Venusaur",
+    "Nome": "bmw-m3",
     "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
     "Especie": "Seed",
     "Tipo": [ "Planta", "Venenoso" ],
@@ -31,7 +31,7 @@
   },
   {
     "Numero": 4,
-    "Nome": "Charmander",
+    "Nome": "bmw-z4",
     "Descricao": "A chama que queima na ponta da cauda é uma indicação de suas emoções. A chama tremula quando Charmander está se divertindo. Se o Pokémon se enfurecer, a chama queima ferozmente.",
     "Especie": "Lizard",
     "Tipo": [ "Fogo" ],
@@ -359,4 +359,4 @@
     "Peso": 40,
     "Imagem": "\\img\\pokemons\\036.png"
   }
-]
+] 
