@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Documents\\GitHub\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj",
       "projectName": "Viota-Motors",
-      "projectPath": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Documents\\GitHub\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj",
+      "projectPath": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Documents\\GitHub\\Viota-Motors\\Viota-Motors\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
