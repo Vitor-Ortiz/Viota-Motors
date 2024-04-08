@@ -1,419 +1,419 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\audi-r8.webp",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\audi-r8.webp",
       "PackagePath": "staticwebassets\\img\\carros\\audi-r8.webp"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\bmw-320i.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\bmw-320i.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\bmw-320i.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\bmw-m3.webp",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\bmw-m3.webp",
       "PackagePath": "staticwebassets\\img\\carros\\bmw-m3.webp"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\bmw-z4.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\bmw-z4.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\bmw-z4.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\chevrolet-camaro.webp",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\chevrolet-camaro.webp",
       "PackagePath": "staticwebassets\\img\\carros\\chevrolet-camaro.webp"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\chevrolet-corsa.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\chevrolet-corsa.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\chevrolet-corsa.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\chevrolet-corvette-grand-sport.webp",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\chevrolet-corvette-grand-sport.webp",
       "PackagePath": "staticwebassets\\img\\carros\\chevrolet-corvette-grand-sport.webp"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\chevrolet-cruze.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\chevrolet-cruze.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\chevrolet-cruze.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\chevrolet-malibu.webp",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\chevrolet-malibu.webp",
       "PackagePath": "staticwebassets\\img\\carros\\chevrolet-malibu.webp"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\dodge-challenger.webp",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\dodge-challenger.webp",
       "PackagePath": "staticwebassets\\img\\carros\\dodge-challenger.webp"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\ferrari-488-spider.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\ferrari-488-spider.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\ferrari-488-spider.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\ford-fusion.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\ford-fusion.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\ford-fusion.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\ford-mustang.webp",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\ford-mustang.webp",
       "PackagePath": "staticwebassets\\img\\carros\\ford-mustang.webp"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\honda-civic.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\honda-civic.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\honda-civic.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\hyundai-elantra.webp",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\hyundai-elantra.webp",
       "PackagePath": "staticwebassets\\img\\carros\\hyundai-elantra.webp"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\hyundai-hb20.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\hyundai-hb20.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\hyundai-hb20.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\hyundai-sonata.webp",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\hyundai-sonata.webp",
       "PackagePath": "staticwebassets\\img\\carros\\hyundai-sonata.webp"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\jaguajaguar-ftype.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\jaguajaguar-ftype.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\jaguajaguar-ftype.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\kia-optima.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\kia-optima.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\kia-optima.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\lamborghini-aventador.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\lamborghini-aventador.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\lamborghini-aventador.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\lamborghini-gallardo.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\lamborghini-gallardo.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\lamborghini-gallardo.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\lamborghini-huracan.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\lamborghini-huracan.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\lamborghini-huracan.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\mclaren-720s.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\mclaren-720s.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\mclaren-720s.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\mercedesbenz-classe-a.webp",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\mercedesbenz-classe-a.webp",
       "PackagePath": "staticwebassets\\img\\carros\\mercedesbenz-classe-a.webp"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\nissan-370z.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\nissan-370z.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\nissan-370z.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\nissan-gtr.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\nissan-gtr.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\nissan-gtr.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\nissan-sentra.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\nissan-sentra.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\nissan-sentra.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\porsche-718.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\porsche-718.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\porsche-718.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\porsche-911.webp",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\porsche-911.webp",
       "PackagePath": "staticwebassets\\img\\carros\\porsche-911.webp"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\porsche-cayman.webp",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\porsche-cayman.webp",
       "PackagePath": "staticwebassets\\img\\carros\\porsche-cayman.webp"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\porsche-taycan.webp",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\porsche-taycan.webp",
       "PackagePath": "staticwebassets\\img\\carros\\porsche-taycan.webp"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\subaru-impreza.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\subaru-impreza.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\subaru-impreza.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\tesla-model-3.webp",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\tesla-model-3.webp",
       "PackagePath": "staticwebassets\\img\\carros\\tesla-model-3.webp"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\toyota-corolla.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\toyota-corolla.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\toyota-corolla.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\volkswagen-gol.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\volkswagen-gol.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\volkswagen-gol.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\volkswagen-jetta.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\volkswagen-jetta.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\volkswagen-jetta.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\volkswagen-nivus.jpg",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\carros\\volkswagen-nivus.jpg",
       "PackagePath": "staticwebassets\\img\\carros\\volkswagen-nivus.jpg"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\favicons\\android-chrome-192x192.png",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\favicons\\android-chrome-192x192.png",
       "PackagePath": "staticwebassets\\img\\favicons\\android-chrome-192x192.png"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\favicons\\android-chrome-512x512.png",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\favicons\\android-chrome-512x512.png",
       "PackagePath": "staticwebassets\\img\\favicons\\android-chrome-512x512.png"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\favicons\\apple-touch-icon.png",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\favicons\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\img\\favicons\\apple-touch-icon.png"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\favicons\\favicon-16x16.png",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\favicons\\favicon-16x16.png",
       "PackagePath": "staticwebassets\\img\\favicons\\favicon-16x16.png"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\favicons\\favicon-32x32.png",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\favicons\\favicon-32x32.png",
       "PackagePath": "staticwebassets\\img\\favicons\\favicon-32x32.png"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\favicons\\favicon.ico",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\favicons\\favicon.ico",
       "PackagePath": "staticwebassets\\img\\favicons\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\favicons\\site.webmanifest",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\img\\favicons\\site.webmanifest",
       "PackagePath": "staticwebassets\\img\\favicons\\site.webmanifest"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\etec\\Desktop\\Viota-Motors\\Viota-Motors\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

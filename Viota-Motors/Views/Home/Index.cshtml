@@ -2,8 +2,9 @@
 @{
     ViewData["Title"] = "Home";
     var tipos = (List<Tipo>)ViewData["Tipos"];
-        string Cor(string nome){
-            return tipos
+        string Cor(string nome)
+        {
+        return tipos
             .Where(t => t.Nome == nome)
             .Select(t => t.Cor)
             .FirstOrDefault();

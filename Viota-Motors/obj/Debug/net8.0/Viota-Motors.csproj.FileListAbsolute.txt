@@ -27,8 +27,6 @@ C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\refint\Viota-Mo
 C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\Viota-Motors.pdb
 C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\Viota-Motors.genruntimeconfig.cache
 C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\ref\Viota-Motors.dll
-C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\bin\Debug\net8.0\Data\dados\tipos.json
-C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\bin\Debug\net8.0\Data\dados\carros.json
 C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Documents\GitHub\Viota-Motors\Viota-Motors\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Documents\GitHub\Viota-Motors\Viota-Motors\bin\Debug\net8.0\appsettings.json
 C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Documents\GitHub\Viota-Motors\Viota-Motors\bin\Debug\net8.0\Data\carros.json
@@ -91,3 +89,5 @@ C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Desktop\Viota-Motors\Viota-Moto
 C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\Viota-Motors.pdb
 C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\Viota-Motors.genruntimeconfig.cache
 C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Desktop\Viota-Motors\Viota-Motors\obj\Debug\net8.0\ref\Viota-Motors.dll
+C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\bin\Debug\net8.0\Data\carros.json
+C:\Users\etec\Desktop\Viota-Motors\Viota-Motors\bin\Debug\net8.0\Data\tipos.json
