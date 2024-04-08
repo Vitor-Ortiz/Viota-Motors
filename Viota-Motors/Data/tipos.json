@@ -10,5 +10,13 @@
   {
     "Nome": "Elétrico",
     "Cor": "#fc3"
+  },
+  {
+    "Nome": "SUV",
+    "Cor": "#fc3"
+  },
+  {
+    "Nome": "Muscle Car",
+    "Cor": "#fc3"
   }
 ]

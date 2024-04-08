@@ -1,261 +1,261 @@
 ﻿[
   {
     "Numero": 1,
-    "Nome": "audi",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "Tipo": [ "Planta", "Venenoso" ] ,
+    "Nome": "Audi",
+    "Descricao": "A marca alemã conhecida por sua engenharia de ponta e design elegante, oferece uma ampla gama de veículos, desde sedans luxuosos até SUVs esportivos.",
+    "Tipo": [ "Esportivo" ] ,
     "Imagem": "\\img\\carros\\audi-r8.webp"
   },
   {
     "Numero": 2,
-    "Nome": "bmw-320i",
-    "Descricao": "Há um broto nas costas desse Pokémon. Para suportar seu peso, as pernas e o tronco de Ivysaur ficam grossos e fortes. Se começar a passar mais tempo deitado sob a luz do sol, é um sinal de que o broto florescerá em uma flor grande em breve.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\pokemons\\bmw-320i.png"
+    "Nome": "BMW-320i",
+    "Descricao": "Um sedan compacto de luxo conhecido por seu desempenho sólido, excelente dirigibilidade e qualidade de construção.",
+    "Tipo": [ "Esportivo"],
+    "Imagem": "\\img\\carros\\bmw-320i.jpg"
   },
   {
     "Numero": 3,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
+    "Nome": "BMW-m3",
+    "Descricao": "Um sedan esportivo de alto desempenho, conhecido por sua potência, manuseio preciso e design agressivo.",
+    "Tipo": [ "Esportivo" ],
     "Imagem": "\\img\\carros\\bmw-m3.webp"
   },
   {
     "Numero": 4,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "BMW-z4",
+    "Descricao": "Um roadster esportivo de duas portas, com um design elegante e desempenho dinâmico, oferecendo uma experiência de direção emocionante.",
+    "Tipo": [ "Esportivo" ],
+    "Imagem": "\\img\\carros\\bmw-z4.jpg"
   },
   {
     "Numero": 5,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Camaro",
+    "Descricao": "Um icônico muscle car americano, reconhecido por seu estilo retro, potência do motor V8 e desempenho emocionante.",
+    "Tipo": [ "Muscle Car" ],
+    "Imagem": "\\img\\carros\\chevrolet-camaro.webp"
   },
   {
     "Numero": 6,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Corsa",
+    "Descricao": "Um hatchback compacto popular, conhecido por sua economia de combustível, praticidade e baixo custo de manutenção.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\chevrolet-corsa.jpg"
   },
   {
     "Numero": 7,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Corvette",
+    "Descricao": " Um lendário esportivo americano, famoso por sua potência impressionante, desempenho de classe mundial e design atemporal.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\chevrolet-corvette-grand-sport.webp"
   },
   {
     "Numero": 8,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Cruze",
+    "Descricao": "Um sedan compacto confiável, oferecendo uma combinação de economia de combustível, conforto e tecnologia moderna.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\chevrolet-cruze.jpg"
   },
   {
     "Numero": 9,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Malibu",
+    "Descricao": "Um sedan de tamanho médio, conhecido por seu design elegante, amplo espaço interior e conjunto de recursos avançados.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\chevrolet-malibu.webp"
   },
   {
     "Numero": 10,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Dodge Challenger",
+    "Descricao": "Um muscle car americano clássico, com design retro, potentes motores V8 e uma presença de estrada impressionante.",
+    "Tipo": [ "Muscle Car" ],
+    "Imagem": "\\img\\carros\\dodge-challenger.webp"
   },
   {
     "Numero": 11,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Ferrari 488 Spider",
+    "Descricao": "Um supercarro italiano conversível, oferecendo desempenho de classe mundial, design aerodinâmico e um motor V8 incrível.",
+    "Tipo": [ "Esportivo" ],
+    "Imagem": "\\img\\carros\\ferrari-488-spider.jpg"
   },
   {
     "Numero": 12,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Ford Fusion",
+    "Descricao": "Um sedan familiar popular, conhecido por seu design contemporâneo, conforto e eficiência de combustível.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\ford-fusion.jpg"
   },
   {
     "Numero": 13,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Mustang",
+    "Descricao": "Um ícone americano dos muscle cars, famoso por seu estilo clássico, potência do motor V8 e uma experiência de condução emocionante.",
+    "Tipo": [ "Muscle Car" ],
+    "Imagem": "\\img\\carros\\ford-mustang.webp"
   },
   {
     "Numero": 14,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Civic",
+    "Descricao": "Um sedan compacto japonês conhecido por sua confiabilidade, eficiência de combustível e ampla gama de recursos de segurança.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\honda-civic.jpg"
   },
   {
     "Numero": 15,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Elantra",
+    "Descricao": "Um sedan compacto sul-coreano, oferecendo uma excelente relação custo-benefício, design moderno e tecnologia de ponta.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\hyundai-elantra.webp"
   },
   {
     "Numero": 16,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "HB20",
+    "Descricao": "Um hatchback compacto popular no Brasil, conhecido por seu design jovem, eficiência de combustível e pacote de segurança completo.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\hyundai-hb20.jpg"
   },
   {
     "Numero": 17,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Sonata",
+    "Descricao": "Um sedan de porte médio, conhecido por seu design elegante, conforto interior e amplo espaço para passageiros.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\hyundai-sonata.webp"
   },
   {
     "Numero": 18,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Jaguar F-Type",
+    "Descricao": "Um esportivo britânico de alto desempenho, reconhecido por seu design elegante, luxuoso interior e potência do motor.",
+    "Tipo": [ "Esportivo" ],
+    "Imagem": "\\img\\carros\\jaguajaguar-ftype.jpg"
   },
   {
     "Numero": 19,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Kia Optima",
+    "Descricao": "Um sedan de tamanho médio coreano, oferecendo um design moderno, tecnologia avançada e eficiência de combustível.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\kia-optima.jpg"
   },
   {
     "Numero": 20,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Aventador",
+    "Descricao": "Um supercarro italiano de ponta, com design futurista, desempenho de tirar o fôlego e um motor V12 impressionante.",
+    "Tipo": [ "Esportivo" ],
+    "Imagem": "\\img\\carros\\lamborghini-aventador.jpg"
   },
   {
     "Numero": 21,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Gallardo",
+    "Descricao": "Um supercarro italiano de prestígio, conhecido por seu design arrojado, manuseio ágil e motor V10 de alta potência.",
+    "Tipo": [ "Esportivo" ],
+    "Imagem": "\\img\\carros\\lamborghini-gallardo.jpg"
   },
   {
     "Numero": 22,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Huracan",
+    "Descricao": "Um supercarro italiano de luxo, oferecendo desempenho excepcional, estilo impressionante e tecnologia de ponta.",
+    "Tipo": [ "Esportivo" ],
+    "Imagem": "\\img\\carros\\lamborghini-huracan.jpg"
   },
   {
     "Numero": 23,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Mclaren 720s",
+    "Descricao": "Um supercarro britânico de elite, conhecido por sua velocidade incrível, design aerodinâmico e tecnologia de corrida.",
+    "Tipo": [ "Esportivo" ],
+    "Imagem": "\\img\\carros\\mclaren-720s.jpg"
   },
   {
     "Numero": 24,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Mercedezbenz classe A",
+    "Descricao": "Um hatchback compacto de luxo alemão, com design elegante, tecnologia de ponta e conforto premium.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\mercedesbenz-classe-a.webp"
   },
   {
     "Numero": 25,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Nissan 370Z",
+    "Descricao": "Um esportivo japonês clássico, conhecido por sua agilidade, estilo esportivo e desempenho emocionante.",
+    "Tipo": [ "Esportivo" ],
+    "Imagem": "\\img\\carros\\nissan-370z.jpg"
   },
   {
     "Numero": 26,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Nissan GTR",
+    "Descricao": "Um lendário supercarro japonês, famoso por sua tecnologia avançada, desempenho de classe mundial e design aerodinâmico.",
+    "Tipo": [ "Esportivo" ],
+    "Imagem": "\\img\\carros\\nissan-gtr.jpg"
   },
   {
     "Numero": 27,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Nissan Sentra",
+    "Descricao": "Um sedan compacto japonês, oferecendo conforto, economia de combustível e confiabilidade comprovada.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\nissan-sentra.jpg"
   },
   {
     "Numero": 28,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Porsche 718",
+    "Descricao": "Um roadster esportivo de luxo, conhecido por sua agilidade, design icônico e desempenho excepcional.",
+    "Tipo": [ "Esportivo" ],
+    "Imagem": "\\img\\carros\\porsche-718.jpg"
   },
   {
     "Numero": 29,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Porsche 911",
+    "Descricao": "Um lendário esportivo alemão, reconhecido por seu design atemporal, manuseio preciso e potência do motor.",
+    "Tipo": [ "Esportivo" ],
+    "Imagem": "\\img\\carros\\porsche-911.webp"
   },
   {
     "Numero": 30,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Porsche Cayman",
+    "Descricao": "Um coupe esportivo de luxo, oferecendo um equilíbrio perfeito entre desempenho, dirigibilidade e conforto.",
+    "Tipo": [ "Esportivo" ],
+    "Imagem": "\\img\\carros\\porsche-cayman.webp"
   },
   {
     "Numero": 31,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Porsche Taycan",
+    "Descricao": "Um sedan esportivo elétrico de luxo, com design elegante, desempenho de tirar o fôlego e tecnologia avançada.",
+    "Tipo": [ "Elétrico", "Esportivo" ],
+    "Imagem": "\\img\\carros\\porsche-taycan.webp"
   },
   {
     "Numero": 32,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Subaru",
+    "Descricao": "Uma marca japonesa conhecida por seus veículos com tração nas quatro rodas, confiabilidade e desempenho off-road.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\subaru-impreza.jpg"
   },
   {
     "Numero": 33,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Tesla Model3",
+    "Descricao": "Um sedan elétrico de luxo, com design inovador, autonomia impressionante e tecnologia de ponta.",
+    "Tipo": [ "Elétrico", "Social" ],
+    "Imagem": "\\img\\carros\\tesla-model-3.webp"
   },
   {
     "Numero": 34,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Corolla",
+    "Descricao": "Um sedan compacto japonês, famoso por sua confiabilidade, eficiência de combustível e baixo custo de manutenção.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\toyota-corolla.jpg"
   },
   {
     "Numero": 35,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Gol",
+    "Descricao": "Um hatchback compacto brasileiro, conhecido por sua durabilidade, economia de combustível e preço acessível.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\volkswagen-gol.jpg"
   },
   {
     "Numero": 36,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Jetta",
+    "Descricao": "Um sedan compacto alemão, oferecendo qualidade de construção sólida, conforto e desempenho eficiente.",
+    "Tipo": [ "Social" ],
+    "Imagem": "\\img\\carros\\volkswagen-jetta.jpg"
   },
   {
     "Numero": 37,
-    "Nome": "bmw-m3",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Tipo": [ "Planta", "Venenoso" ],
-    "Imagem": "\\img\\carros\\bmw-m3.webp"
+    "Nome": "Nivus",
+    "Descricao": "Um SUV compacto brasileiro, com design moderno, tecnologia avançada e versatilidade para o uso urbano.",
+    "Tipo": [ "SUV", "Social" ],
+    "Imagem": "\\img\\carros\\volkswagen-nivus.jpg"
   }
 ]
