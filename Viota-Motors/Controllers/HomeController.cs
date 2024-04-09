@@ -16,43 +16,40 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        List<Carro> carros = [];
-        using (StreamReader leitor = new("Data\\carros.json"))
-        {
-            string dados = leitor.ReadToEnd();
-            carros = JsonSerializer.Deserialize<List<Carro>>(dados);
-        }
-
-        List<Tipo> tipos = [];
-        using (StreamReader leitor = new("Data\\tipos.json"))
-        {
-            string dados = leitor.ReadToEnd();
-            tipos = JsonSerializer.Deserialize<List<Tipo>>(dados);
-        }
-        ViewData["Tipos"] = tipos;
-        return View(carros);
+       List<Carro> carros = GetCarros();
+       List<Tipo> tipos = GetTipos();
+       ViewData["Tipos"] = tipos;
+       return View(carros);
     }
         public IActionResult Details (int id)
         {
-            List<Carro> carros = [];
-            using(StreamReader leitor = new("Data\\carros.json"))
-            {
-                string dados = leitor.ReadToEnd();
-                carros = JsonSerializer.Deserialize<List<Carro>>(dados);
-            }
-            List<Tipo> tipos = [];
-            using(StreamReader leitor = new("Data\\tipos.json"))
-            {
-                string dados = leitor.ReadToEnd();
-                tipos = JsonSerializer.Deserialize<List<Tipo>>(dados);
-            }
+            List<Carro> carros = GetCarros();
+            List<Tipo> tipos = GetTipos();
             DetailsVM details = new(){
                 Tipos = tipos,
-                Atual = carros.FirstOrDefault(c => c.Numero == id),
-                Anterior = carros.OrderByDescending(c => c.Numero).FirstOrDefault(c => c.Numero < id),
-                Proximo = carros.OrderBy(c => c.Numero).FirstOrDefault(c => c.Numero > id),
+                Atual = carros.FirstOrDefault(p => p.Numero == id),
+                Anterior = carros.OrderByDescending(p => p.Numero).FirstOrDefault(p => p.Numero < id),
+                Proximo = carros.OrderBy(p => p.Numero).FirstOrDefault(p => p.Numero > id),
             };
             return View(details);
+        }
+
+        private List<Carro> GetCarros()
+        {
+            using (StreamReader leitor = new ("Data\\carros.json"))
+            {
+                string dados = leitor.ReadToEnd();
+                return JsonSerializer.Deserialize<List<Carro>>(dados);
+            }
+        }
+
+        private List<Tipo> GetTipos()
+        {
+            using (StreamReader leitor = new ("Data\\tipos.json"))
+            {
+                string dados = leitor.ReadToEnd();
+                return JsonSerializer.Deserialize<List<Tipo>>(dados);
+            }
         }
     public IActionResult Privacy()
     {

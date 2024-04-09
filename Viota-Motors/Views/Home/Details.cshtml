@@ -1,6 +1,7 @@
 @model DetailsVM
 @{
     ViewData["Title"] = "Carro";
+    var tipos = (List<Tipo>)ViewData["tipos"];
     string Cor(string nome)
     {
         return tipos
@@ -23,7 +24,8 @@
 
                 <div class="col text-center">
                     <h1 class="fs-1">@Model.Atual.Nome 
-                        <span class="fs-2 text-secondary">Nº @Model.Numero.ToString("000")</span></h1>
+                        <span class="fs-2 text-secondary">Nº @Model.Atual.Numero.ToString("000")</span>
+                    </h1>
                 </div>
                 <div class="col text-center">
                      @if (Model.Proximo != null)
@@ -38,15 +40,17 @@
             <div class="row mt-3">
                 <div class="col-lg-5 p-0">
                     <img class="img-fluid cursor-pointer" src="@Model.Atual.Imagem" alt="@Model.Atual.Nome">
+                <div class ="col-lg-7 fs-5 mt-4">
+                    <p class='mb-3'><strong>Descrição:</strong> @Model.Atual.Descricao</p>
+                    <p class=fw-bold>Tipo</p>
+
                 </div>
-                <div class="col-lg-7 fs-5 mt-4">
-                    <p class="mb-3"><strong>Descrição:</strong> @Model.Atual.Descricao</p>
-                    <p class="fw-bold">Tipo</p>
                     <div class="btn-group">
-                        @foreach(var tipo in Model.Atual.Tipo){
-                        <a href="#" class="btn btn-lg text-white" style="background-color:@Cor(tipo)">
-                            @tipo
-                        </a>
+                        @foreach(var tipo in Model.Atual.Tipo)
+                        {
+                            <a href="#" class="btn btn-lg text-white" style="background-color:@Cor(tipo)">
+                                @tipo
+                            </a>
                         }
                     </div>
                 </div>
