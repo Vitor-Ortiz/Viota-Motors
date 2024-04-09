@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj": {}
+    "C:\\Users\\vitu\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj": {
+    "C:\\Users\\vitu\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj",
+        "projectUniqueName": "C:\\Users\\vitu\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj",
         "projectName": "Viota-Motors",
-        "projectPath": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\OneDrive - Etec Centro Paula Souza\\Desktop\\Viota-Motors\\Viota-Motors\\obj\\",
+        "projectPath": "C:\\Users\\vitu\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj",
+        "packagesPath": "C:\\Users\\vitu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitu\\Viota-Motors\\Viota-Motors\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\vitu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

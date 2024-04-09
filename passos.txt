@@ -1,4 +1,4 @@
 git config --global user.name "Fulano de Tal"
 git config --global user.email fulanodetal@exemplo.br
 
-Vitu: parei na pagina 156
+Vitu: parei na pagina asdasdasda , cabei essa bct
