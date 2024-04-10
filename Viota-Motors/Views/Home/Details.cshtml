@@ -1,10 +1,9 @@
 @model DetailsVM
 @{
-    ViewData["Title"] = "Carro";
-    var tipos = (List<Tipo>)ViewData["tipos"];
-    string Cor(string nome)
+        ViewData["Title"] = "Carro";
+        string Cor(string nome)
     {
-        return tipos
+        return Model.Tipos
         .Where(t => t.Nome == nome)
         .Select(t => t.Cor)
         .FirstOrDefault();
