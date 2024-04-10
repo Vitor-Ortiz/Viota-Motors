@@ -15,12 +15,13 @@
         <div class="col mx-auto">
             <h1>Carros</h1>
             <div class="group">
-                <button id="btn-all" class="btn btn-md my-2 text-white bg-dark btn-filter" onclick="filter('all')">Ver
-                    Todos</button>
+                <button id="btn-all" class="btn btn-md my-2 text-white bg-dark btn-filter" onclick="filter('all')">
+                    Ver Todos
+                </button>
                     @foreach (var tipo in tipos)
                     {
-                       <button id="btn-@tipo.Nome" class="btn btn-sm my-2 text-white btn-filter" style="background-color:@tipo.Cor"
-                       style="background-color:@tipo.Cor" onclick="filter('@tipo.Nome')">
+                       <button id="btn-@tipo.Nome" class="btn btn-sm my-2 text-white btn-filter" 
+                            style="background-color:@tipo.Cor" onclick="filter('@tipo.Nome')">
                             @tipo.Nome
                        </button>
                     }

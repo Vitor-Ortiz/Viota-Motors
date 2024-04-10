@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Viota-Motors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ffca2a13897748ad3e197028bed44a3edc2ed75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Viota-Motors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Viota-Motors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

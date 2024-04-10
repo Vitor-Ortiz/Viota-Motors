@@ -3,7 +3,7 @@
 }
 
 .card:hover {
-    border: 3px solid red;
+    border: 3px solid #27708c;
     transform: scale(1.15);
     transition: 1s;
     z-index: 1000;
@@ -11,4 +11,10 @@
 
 .cursor-pointer {
     cursor: pointer;
+}
+#navbarHeader{
+    background-color: #F2A74B;   
+   }
+#Header {
+    background-color: #1d4859;
 }

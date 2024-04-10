@@ -31,7 +31,7 @@
     "Numero": 5,
     "Nome": "Camaro",
     "Descricao": "Um icônico muscle car americano, reconhecido por seu estilo retro, potência do motor V8 e desempenho emocionante.",
-    "Tipo": [ "Muscle Car" ],
+    "Tipo": [ "Muscle-Car" ],
     "Imagem": "\\img\\carros\\chevrolet-camaro.webp"
   },
   {
@@ -66,7 +66,7 @@
     "Numero": 10,
     "Nome": "Dodge Challenger",
     "Descricao": "Um muscle car americano clássico, com design retro, potentes motores V8 e uma presença de estrada impressionante.",
-    "Tipo": [ "Muscle Car" ],
+    "Tipo": [ "Muscle-Car" ],
     "Imagem": "\\img\\carros\\dodge-challenger.webp"
   },
   {
@@ -87,7 +87,7 @@
     "Numero": 13,
     "Nome": "Mustang",
     "Descricao": "Um ícone americano dos muscle cars, famoso por seu estilo clássico, potência do motor V8 e uma experiência de condução emocionante.",
-    "Tipo": [ "Muscle Car" ],
+    "Tipo": [ "Muscle-Car" ],
     "Imagem": "\\img\\carros\\ford-mustang.webp"
   },
   {

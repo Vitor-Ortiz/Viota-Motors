@@ -1,22 +1,22 @@
 ﻿[
   {
     "Nome": "Esportivo",
-    "Cor": "#aab"
+    "Cor": "#fc4b08"
   },
   {
     "Nome": "Social",
-    "Cor": "#39f"
+    "Cor": "#120a8f "
   },
   {
     "Nome": "Elétrico",
-    "Cor": "#fc3"
+    "Cor": "#03bb85"
   },
   {
     "Nome": "SUV",
-    "Cor": "#fc3"
+    "Cor": "#879200"
   },
   {
     "Nome": "Muscle Car",
-    "Cor": "#fc3"
+    "Cor": "#c00030"
   }
 ]
