@@ -15,14 +15,14 @@
         <div class="col mx-auto">
             <h1>Carros</h1>
             <div class="group">
-                <button id="btn-all" class="btn btn-md my-2 text-white bg-dark btn-filter">Ver
+                <button id="btn-all" class="btn btn-md my-2 text-white bg-dark btn-filter" onclick="filter('all')">Ver
                     Todos</button>
                     @foreach (var tipo in tipos)
                     {
-                        <a href="#" class="btn my-2 text-white"
-                        style="background-color:@Cor(tipo)"
-                        onclick="filter('@tipo')">@tipo
-                        </a>
+                       <button id="btn-@tipo.Nome" class="btn btn-sm my-2 text-white btn-filter" style="background-color:@tipo.Cor"
+                       style="background-color:@tipo.Cor" onclick="filter('@tipo.Nome')">
+                            @tipo.Nome
+                       </button>
                     }
                 
             </div>
@@ -46,12 +46,12 @@
                             <div class="btn-group">
                                 @foreach (var tipo in carro.Tipo)
                                 {
-                                    <a href="#" class="btn my-2 text-white"
-
-                                        style ="background-color:@Cor(tipo)">@tipo
-                                    </a>
-                                }
-                            </div>
+                                <a href="#" class="btn my-2 text-white"
+                                style="background-color:@Cor(tipo)"
+                                onclick="filter('@tipo')">@tipo
+                                </a>
+                                        }
+                            </div> 
                         </div>
                     </div>
                 </div>

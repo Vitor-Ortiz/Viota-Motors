@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitu\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj": {}
+    "C:\\Users\\vitu\\Desktop\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitu\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj": {
+    "C:\\Users\\vitu\\Desktop\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitu\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj",
+        "projectUniqueName": "C:\\Users\\vitu\\Desktop\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj",
         "projectName": "Viota-Motors",
-        "projectPath": "C:\\Users\\vitu\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj",
+        "projectPath": "C:\\Users\\vitu\\Desktop\\Viota-Motors\\Viota-Motors\\Viota-Motors.csproj",
         "packagesPath": "C:\\Users\\vitu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitu\\Viota-Motors\\Viota-Motors\\obj\\",
+        "outputPath": "C:\\Users\\vitu\\Desktop\\Viota-Motors\\Viota-Motors\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vitu\\AppData\\Roaming\\NuGet\\NuGet.Config"
